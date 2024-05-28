@@ -1,0 +1,244 @@
+{
+  "companies": [
+    {
+      "id": 1,
+      "name": "Tech Innovators",
+      "employees": [
+        {
+          "id": 101,
+          "name": "Alice Johnson",
+          "position": "Software Engineer"
+        },
+        {
+          "id": 102,
+          "name": "Bob Smith",
+          "position": "Product Manager"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Creative Solutions",
+      "employees": [
+        {
+          "id": 201,
+          "name": "Carol White",
+          "position": "Graphic Designer"
+        },
+        {
+          "id": 202,
+          "name": "David Brown",
+          "position": "UX Designer"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Financial Advisors Inc.",
+      "employees": [
+        {
+          "id": 301,
+          "name": "Emily Davis",
+          "position": "Financial Analyst"
+        },
+        {
+          "id": 302,
+          "name": "Frank Wilson",
+          "position": "Accountant"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Healthcare Partners",
+      "employees": [
+        {
+          "id": 401,
+          "name": "Grace Miller",
+          "position": "Nurse"
+        },
+        {
+          "id": 402,
+          "name": "Hank Anderson",
+          "position": "Doctor"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Retail Giants",
+      "employees": [
+        {
+          "id": 501,
+          "name": "Ivy Thomas",
+          "position": "Store Manager"
+        },
+        {
+          "id": 502,
+          "name": "Jack Harris",
+          "position": "Sales Associate"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Marketing Gurus",
+      "employees": [
+        {
+          "id": 601,
+          "name": "Karen Scott",
+          "position": "Marketing Manager"
+        },
+        {
+          "id": 602,
+          "name": "Larry Adams",
+          "position": "SEO Specialist"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Consulting Experts",
+      "employees": [
+        {
+          "id": 701,
+          "name": "Megan Green",
+          "position": "Consultant"
+        },
+        {
+          "id": 702,
+          "name": "Nathan Baker",
+          "position": "Business Analyst"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Manufacturing Co.",
+      "employees": [
+        {
+          "id": 801,
+          "name": "Olivia Mitchell",
+          "position": "Production Manager"
+        },
+        {
+          "id": 802,
+          "name": "Paul Carter",
+          "position": "Quality Control"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Real Estate Ventures",
+      "employees": [
+        {
+          "id": 901,
+          "name": "Quinn Morgan",
+          "position": "Real Estate Agent"
+        },
+        {
+          "id": 902,
+          "name": "Rachel Bell",
+          "position": "Property Manager"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Education First",
+      "employees": [
+        {
+          "id": 1001,
+          "name": "Sam Clark",
+          "position": "Teacher"
+        },
+        {
+          "id": 1002,
+          "name": "Tina Turner",
+          "position": "Principal"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Food Services Ltd.",
+      "employees": [
+        {
+          "id": 1101,
+          "name": "Uma King",
+          "position": "Chef"
+        },
+        {
+          "id": 1102,
+          "name": "Victor Lee",
+          "position": "Waiter"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Travel Agency Pro",
+      "employees": [
+        {
+          "id": 1201,
+          "name": "Wendy Young",
+          "position": "Travel Agent"
+        },
+        {
+          "id": 1202,
+          "name": "Xander Foster",
+          "position": "Tour Guide"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Logistics Masters",
+      "employees": [
+        {
+          "id": 1301,
+          "name": "Yasmine Allen",
+          "position": "Logistics Coordinator"
+        },
+        {
+          "id": 1302,
+          "name": "Zachary Perez",
+          "position": "Supply Chain Manager"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Energy Solutions",
+      "employees": [
+        {
+          "id": 1401,
+          "name": "Alexis Reed",
+          "position": "Energy Consultant"
+        },
+        {
+          "id": 1402,
+          "name": "Blake Evans",
+          "position": "Project Manager"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Software Services",
+      "employees": [
+        {
+          "id": 1501,
+          "name": "Catherine Edwards",
+          "position": "Software Developer"
+        },
+        {
+          "id": 1502,
+          "name": "Daniel Fox",
+          "position": "DevOps Engineer"
+        }
+      ]
+    }
+  ]
+}

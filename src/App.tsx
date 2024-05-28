@@ -1,12 +1,13 @@
 import "./App.css";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import NotFound from "./pages/notFound";
-import Layout from "./component/layout";
 import Home from "./pages/home";
 import { ThemeProvider } from "@emotion/react";
 import { darkTheme, lightTheme } from "./theme";
 import { CssBaseline } from "@mui/material";
 import { useStore } from "./services/store";
+import Layout from "./components/layout";
+import Company from "./pages/company";
 
 function App() {
   const router = createBrowserRouter([
@@ -25,6 +26,10 @@ function App() {
         {
           path: "/",
           element: <Home />,
+        },
+        {
+          path: "company/:id",
+          element: <Company />,
         },
       ],
     },
